@@ -9,7 +9,12 @@
 <7> Start the server <br/>
 <8> Add custom visual to report<br/>
 <em>For more detailed information, please see "Custom Visual Part 1.docx"</em><br/><br/>
+
 <h3>Step 2. Code Editer</h3><br/>
 <1> Install Code Editor<br/>
 <2> About Visual.ts<br/>
+<em>For more detailed information, please see "Custom Visual Part 2.docx"</em><br/><br/>
+
 </h3>Step 3. Including D3</h3><br/>
+<1> Install D3<br/>
+<em>For more detailed information, please see "Custom Visual Part 3.docx"</em><br/><br/>
