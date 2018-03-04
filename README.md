@@ -16,9 +16,13 @@
 <p>
 1 Install Code Editor<br/>
 2 About Visual.ts<br/>
+3 Terminating the server<br/>
 <em>For more detailed information, please see "Custom Visual Part 2.docx"</em><br/><br/>
 </p>
 
 <h4>Step 3. Including D3</h4>
-1 Install D3<br/>
+1 Induction to D3<br/>
+2 Install D3 with npm<br/>
+3 Including d3 to the pbiviz.json<br/>
+4 Installing Typings for d3<br/>
 <em>For more detailed information, please see "Custom Visual Part 3.docx"</em><br/><br/>
