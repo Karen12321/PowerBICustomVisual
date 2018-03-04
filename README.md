@@ -1,5 +1,5 @@
-Building Custom Visual Step by Step<br/>
-Step 1. Installation<br/>
+<h2>Building Custom Visual Step by Step</h2><br/>
+<h3>Step 1. Installation</h3><br/>
 <1> NodeJS<br/>
 <2> Power BI Visual Tools<br/>
 <3> To check whether the power bi visual tools installed successfully<br/>
@@ -8,6 +8,8 @@ Step 1. Installation<br/>
 <6> Create a custome visual<br/>
 <7> Start the server <br/>
 <8> Add custom visual to report<br/>
-For more detailed information, please see "Custom Visual Part 1.docx"<br/>
-Step 2. Code Editer<br/>
-Step 3. Including D3<br/>
+<em>For more detailed information, please see "Custom Visual Part 1.docx"</em><br/><br/>
+<h3>Step 2. Code Editer</h3><br/>
+<1> Install Code Editor<br/>
+<2> About Visual.ts<br/>
+</h3>Step 3. Including D3</h3><br/>
